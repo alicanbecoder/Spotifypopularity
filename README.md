@@ -1,4 +1,4 @@
-# 🎵 Spotify Song Popularity Prediction (V12A)
+# 🎵 Spotify Song Popularity Prediction
 
 Bu proje, Spotify şarkı verilerini kullanarak bir parçanın **ne kadar popüler olacağını (Low / Medium / High)** tahmin etmeyi amaçlayan bir makine öğrenmesi çalışmasıdır.  
 Model, **ses, sanatçı, zaman ve playlist tabanlı** özellikleri bir araya getirerek, XGBoost algoritmasıyla **yaklaşık %81 doğruluk (Macro F1: 0.816)** elde etmiştir.
